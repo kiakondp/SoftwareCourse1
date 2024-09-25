@@ -1,0 +1,7 @@
+C:\Users\Patrick B Kiakondo\Documents\SoftwareCourse1\SoftwareCourse1\bin\Debug\SoftwareCourse1.exe.config
+C:\Users\Patrick B Kiakondo\Documents\SoftwareCourse1\SoftwareCourse1\bin\Debug\SoftwareCourse1.exe
+C:\Users\Patrick B Kiakondo\Documents\SoftwareCourse1\SoftwareCourse1\bin\Debug\SoftwareCourse1.pdb
+C:\Users\Patrick B Kiakondo\Documents\SoftwareCourse1\SoftwareCourse1\obj\Debug\SoftwareCourse1.csproj.AssemblyReference.cache
+C:\Users\Patrick B Kiakondo\Documents\SoftwareCourse1\SoftwareCourse1\obj\Debug\SoftwareCourse1.csproj.CoreCompileInputs.cache
+C:\Users\Patrick B Kiakondo\Documents\SoftwareCourse1\SoftwareCourse1\obj\Debug\SoftwareCourse1.exe
+C:\Users\Patrick B Kiakondo\Documents\SoftwareCourse1\SoftwareCourse1\obj\Debug\SoftwareCourse1.pdb
